@@ -1,0 +1,5 @@
+{
+  "name": "are-we-there-yet",
+  "owner": { "name": "rusha-mercari" },
+  "plugins": [{ "name": "are-we-there-yet", "source": "./" }]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "are-we-there-yet",
+  "version": "0.2.0",
+  "description": "A side deck that guesses, with questionable confidence, how long each subagent has left.",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
